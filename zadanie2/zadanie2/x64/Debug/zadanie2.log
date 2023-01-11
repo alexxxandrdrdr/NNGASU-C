@@ -1,0 +1,6 @@
+﻿  zadanie2.cpp
+E:\praktica po c\zadanie2\zadanie2\zadanie2.cpp(33,55): warning C4474: "printf" : для строки формата передано слишком много аргументов
+E:\praktica po c\zadanie2\zadanie2\zadanie2.cpp(33,55): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 4
+E:\praktica po c\zadanie2\zadanie2\zadanie2.cpp(55,45): warning C4474: "printf" : для строки формата передано слишком много аргументов
+E:\praktica po c\zadanie2\zadanie2\zadanie2.cpp(55,45): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 3
+  zadanie2.vcxproj -> E:\praktica po c\zadanie2\x64\Debug\zadanie2.exe

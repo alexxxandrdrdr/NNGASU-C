@@ -1,0 +1,3 @@
+﻿  zadanie2slogno.cpp
+E:\praktica po c\zadanie2slogno\zadanie2slogno\zadanie2slogno.cpp(25,11): warning C4477: "printf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "double"
+  zadanie2slogno.vcxproj -> E:\praktica po c\zadanie2slogno\x64\Debug\zadanie2slogno.exe

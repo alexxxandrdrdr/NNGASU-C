@@ -1,0 +1,6 @@
+﻿  Zadanie3.2.cpp
+E:\praktica po c\Zadanie3.2\Zadanie3.2\Zadanie3.2.cpp(18,8): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "int *"
+E:\praktica po c\Zadanie3.2\Zadanie3.2\Zadanie3.2.cpp(18,8): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "2" имеет тип "int *"
+E:\praktica po c\Zadanie3.2\Zadanie3.2\Zadanie3.2.cpp(18,8): warning C4477: "scanf": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "3" имеет тип "int *"
+E:\praktica po c\Zadanie3.2\Zadanie3.2\Zadanie3.2.cpp(20,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Zadanie3.2.vcxproj -> E:\praktica po c\Zadanie3.2\x64\Debug\Zadanie3.2.exe
